@@ -1,1 +1,11 @@
-
+.entete{
+  color:'#5D9';
+  text-align:'center';
+  font-size:'40px';
+}
+.dv{
+  color: 'red';
+}
+a{
+  text-decoration: 'none';
+}
